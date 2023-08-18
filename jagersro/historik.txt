@@ -1,0 +1,180 @@
+Spelare 1, skriv namnen på dina hästar (ett ord)
+Vilka har stjärnjockey?
+Vilka har försäkring?
+Spelare 2, skriv namnen på dina hästar (ett ord)
+Vilka har stjärnjockey?
+Vilka har försäkring?
+Spelare 3, skriv namnen på dina hästar (ett ord)
+Spelare 4, skriv namnen på dina hästar (ett ord)
+Spelare 5, skriv namnen på dina hästar (ett ord)
+Vilka hästar ska starta framför startlinjen?
+
+RoseRoom
+3 steg omgång 1, det är -37 steg kvar.
+
+SweetSue
+Galoppkort "Snabb galopp!"
+6 steg omgång 1, det är -32 steg kvar.
+
+Cassiopeja
+3 steg omgång 1, det är -41 steg kvar.
+
+Castor
+1 steg omgång 1, det är -43 steg kvar.
+
+Aldebaran
+Galoppkort "Fin inhämtning!"
+Banken köper en av dina hästar
+som inte är med i loppet och som inte
+har startförbud, till fulla värdet
+6 steg omgång 1, det är -32 steg kvar.
+
+RoseRoom
+Galoppkort "Protest!"
+
+SweetSue
+6 steg omgång 2, det är -26 steg kvar.
+
+Cassiopeja
+4 steg omgång 2, det är -37 steg kvar.
+
+Castor
+Galoppkort "Manar på!"
+1 steg omgång 2, det är -41 steg kvar.
+
+Aldebaran
+2 steg omgång 2, det är -30 steg kvar.
+
+SweetSue
+5 steg omgång 3, det är -21 steg kvar.
+
+Cassiopeja
+Kvittera ut 5,000 i banken
+5 steg omgång 3, det är -32 steg kvar.
+
+Castor
+4 steg omgång 3, det är -37 steg kvar.
+
+Aldebaran
+3 steg omgång 3, det är -27 steg kvar.
+
+SweetSue
+5 steg omgång 4, det är -16 steg kvar.
+
+Cassiopeja
+Galoppkort "Snabb galopp!"
+Din dyraste häst som inte är med i loppet blir köpt för 10,000
+6 steg omgång 4, det är -24 steg kvar.
+
+Castor
+6 steg omgång 4, det är -31 steg kvar.
+
+Aldebaran
+Ta ett lån!
+Gäller inte om du har 80,000
+eller mer i skuld.
+3 steg omgång 4, det är -24 steg kvar.
+
+SweetSue
+3 steg omgång 5, det är -13 steg kvar.
+
+Cassiopeja
+Galoppkort "Skräp i ögat!"
+3 steg omgång 5, det är -22 steg kvar.
+
+Castor
+Galoppkort "Snabb galopp!"
+Alla dina hästar, som inte
+är på banan, är förkylda
+och kan inte starta nästa lopp.
+De får inte säljas förän nästa lopp
+har börjat. Spara kortet till dess.
+Om du har betalt försäkringen
+får du 2,000 av banken för varje
+sjuk häst.
+5 steg omgång 5, det är -24 steg kvar.
+
+Aldebaran
+4 steg omgång 5, det är -20 steg kvar.
+
+SweetSue
+3 steg omgång 6, det är -10 steg kvar.
+
+Cassiopeja
+(Gäller alla)
+Under lopp 1-5: Betala 1,000 per 3-åring.
+Under lopp 6-7: Betala 2,000 per 4-åring
+3 steg omgång 6, det är -19 steg kvar.
+
+Castor
+Vill du köpa en häst?
+5 steg omgång 6, det är -19 steg kvar.
+
+Aldebaran
+4 steg omgång 6, det är -16 steg kvar.
+
+SweetSue
+2 steg omgång 7, det är -8 steg kvar.
+
+Cassiopeja
+4 steg omgång 7, det är -15 steg kvar.
+
+Castor
+5 steg omgång 7, det är -14 steg kvar.
+
+Aldebaran
+5 steg omgång 7, det är -11 steg kvar.
+
+SweetSue
+Du får köpa en häst för
+halva priset, om du har kontanter.
+1 steg omgång 8, det är -7 steg kvar.
+
+Cassiopeja
+5 steg omgång 8, det är -10 steg kvar.
+
+Castor
+5 steg omgång 8, det är -9 steg kvar.
+
+Aldebaran
+5 steg omgång 8, det är -6 steg kvar.
+
+SweetSue
+1 steg omgång 9, det är -6 steg kvar.
+
+
+SweetSue av spelare 1 har -6 steg kvar
+Nästa är omgång 10 och hästen ska gå 2 steg
+
+Cassiopeja av spelare 2 har -10 steg kvar
+Nästa är omgång 9 och hästen ska gå 6 steg
+
+Castor av spelare 2 har -9 steg kvar
+Nästa är omgång 9 och hästen ska gå 3 steg
+
+Aldebaran av spelare 2 har -6 steg kvar
+Nästa är omgång 9 och hästen ska gå 6 steg
+
+Spelare 2, du går i mål nu med Aldebaran
+Vilken ordning ska du gå hästarna i?
+Du skrev fel, skriv dina hästars namn rätt (ett ord) med ett mellanslag mellan namnen
+
+Castor
+3 steg omgång 9, det är -6 steg kvar.
+
+Cassiopeja
+6 steg omgång 9, det är -4 steg kvar.
+
+Aldebaran
+Galoppkort "Stark framryckning!"
+6 steg omgång 9, det är 0 steg kvar.
+SweetSue av spelare 1 har -6 steg kvar
+Castor av spelare 2 har -6 steg kvar
+Cassiopeja av spelare 2 har -4 steg kvar
+Aldebaran av spelare 2 har 0 steg kvar
+
+1: Aldebaran
+2: Cassiopeja
+3: SweetSue
+3: Castor
+Aldebaran av spelare 2 vinner!
